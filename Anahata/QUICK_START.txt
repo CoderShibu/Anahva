@@ -1,0 +1,47 @@
+═══════════════════════════════════════════════════════════════
+   ANAHVA - MENTAL WELLNESS SANCTUARY
+   Quick Start Guide
+═══════════════════════════════════════════════════════════════
+
+✅ YOUR SERVER IS NOW RUNNING!
+
+🌐 Open your browser and go to:
+   http://localhost:5173
+
+🔐 Login Credentials:
+   Username: Shibasish
+   Password: Shibasish
+
+═══════════════════════════════════════════════════════════════
+
+📋 TO START THE SERVER MANUALLY:
+
+1. Open Command Prompt or PowerShell in this folder
+2. Type: npm run dev
+3. Wait for "Local: http://localhost:5173" message
+4. Open browser to that URL
+
+═══════════════════════════════════════════════════════════════
+
+🎨 FEATURES TO EXPLORE:
+
+✓ Login Page - Beautiful animated interface
+✓ Home Dashboard - Personalized greeting
+✓ Journal - Write from the heart
+✓ Chat - Talk to Anahva AI companion
+✓ Insights - Track your emotional journey
+✓ Safe Circle - Grounding exercises
+✓ Settings - Theme toggle (Dark/Light) & Language (EN/हिंदी)
+
+═══════════════════════════════════════════════════════════════
+
+🔧 IF BROWSER DOESN'T LOAD:
+
+1. Check terminal - server must show "Local: http://localhost:5173"
+2. Try: http://127.0.0.1:5173
+3. Check if port number is different in terminal
+4. Clear browser cache (Ctrl+Shift+Delete)
+5. Try incognito/private mode
+
+═══════════════════════════════════════════════════════════════
+
