@@ -1,0 +1,9 @@
+# 🚀 Terminal 1 (Backend)
+cd d:\Anahata\backend
+npm install
+node src/server.js
+
+# 🚀 Terminal 2 (Frontend)
+cd d:\Anahata\Anahata
+npm install
+npm run dev
